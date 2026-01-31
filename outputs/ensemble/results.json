@@ -1,0 +1,13 @@
+{
+  "model": "Weighted Ensemble",
+  "cv_accuracy": 0.8886279115286749,
+  "fold_accuracies": [
+    0.8886279115286749
+  ],
+  "weights": {
+    "polish-roberta": 0.09251994333973788,
+    "herbert": 0.907480056660262,
+    "deberta": 0.0
+  },
+  "timestamp": "2026-01-31T22:17:21.796682"
+}
